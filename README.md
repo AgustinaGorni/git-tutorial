@@ -37,7 +37,10 @@ Ej: "Add git commit description"
 
 Muestra el historial de commits del repositorio/ branch actuales
 
-## git branch
+## git checkout
+
+Permite desplazarse entre branches con git checkout nombre-de-la-branch, o crear una nueva rama con git checkout -b nombre-de-la-rama
+
 
 ## git push
 
