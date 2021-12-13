@@ -9,6 +9,8 @@ Github es un sitio web que aloja código y trabaja con git
 
 ## git init
 
+Comando que se utiliza para configurar un nuevo repositorio
+
 ## git clone
 
 ## git status
