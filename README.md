@@ -13,6 +13,8 @@ Comando que se utiliza para configurar un nuevo repositorio
 
 ## git clone
 
+Clona un repo remoto de manera local
+
 ## git status
 
 ## git add
