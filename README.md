@@ -35,6 +35,8 @@ Ej: "Add git commit description"
 
 ## git log
 
+Muestra el historial de commits del repositorio/ branch actuales
+
 ## git branch
 
 ## git push
