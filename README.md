@@ -52,6 +52,8 @@ Actualiza el repo local con los cambios publicados en el remoto y que faltan en 
 
 ## git merge
 
+Une la rama de trabajo actual con una especificada. Podemos hacerlo desde GitHub tb
+
 ## .gitignore
 
 ## Tutorial interactivo
