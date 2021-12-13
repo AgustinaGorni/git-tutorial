@@ -56,6 +56,8 @@ Une la rama de trabajo actual con una especificada. Podemos hacerlo desde GitHub
 
 ## .gitignore
 
+Es un archivo que permite especificar aquellos archivos o directorios que no es necesario seguir, agregar, commitear, etc. Por ejemplo, archivos temporales 
+
 ## Tutorial interactivo
 
 [learngitbranching](https://learngitbranching.js.org/)
