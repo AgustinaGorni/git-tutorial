@@ -17,6 +17,8 @@ Clona un repo remoto de manera local
 
 ## git status
 
+Muestra el estado del repositorios. Cambios para hacer, commits para hacer, etc
+
 ## git add
 
 ## git commit
