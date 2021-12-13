@@ -21,6 +21,8 @@ Muestra el estado del repositorios. Cambios para hacer, commits para hacer, etc
 
 ## git add
 
+Rastrea los cambios en un repositorio y los agrega para ser parte del próximo commit
+
 ## git commit
 
 ### good commits messages
