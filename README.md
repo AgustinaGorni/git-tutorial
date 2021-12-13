@@ -25,7 +25,13 @@ Rastrea los cambios en un repositorio y los agrega para ser parte del próximo c
 
 ## git commit
 
+Engloba los últimos cambios y marca un punto de control dentro del proyecto
+
 ### good commits messages
+
+En inglés, en infinitivo, capitalizados y en presente simple. 
+
+Ej: "Add git commit description"
 
 ## git log
 
