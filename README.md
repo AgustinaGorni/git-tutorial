@@ -44,6 +44,8 @@ Permite desplazarse entre branches con git checkout nombre-de-la-branch, o crear
 
 ## git push
 
+Publica los commits locales en un repo remoto, como Github
+
 ## git pull
 
 ## git merge
