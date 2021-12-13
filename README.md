@@ -48,6 +48,8 @@ Publica los commits locales en un repo remoto, como Github
 
 ## git pull
 
+Actualiza el repo local con los cambios publicados en el remoto y que faltan en el local
+
 ## git merge
 
 ## .gitignore
